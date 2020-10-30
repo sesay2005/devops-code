@@ -1,4 +1,5 @@
-<h1> Hello everyone,Welcome to simple Devops project.Education is the key to success. !!   </h1>
-<h2> Data Service Group is working hard to transform people lives in a positive way. </h2>
-<h2> So please extend this message to your farmily and friends </h2>
-<h1> Thank you</h1>
+<h1> Peace and joy to you and your family. This holiday season i hope you have a nice and worm holiday season !  </h1>
+<h2> I am truly greatful to have a family like this! Happy Holiday </h2>
+<h2> Thinking of you all with lots of love! i hope your enjoy a wonderful Christmas! Warmest wishes, may all your dreams for the coming year be fulfilled! Happy new year! </h2>
+<h1> May your holidays be filled with lots of happyiness,peace, and love</h1>
+<h1> Love you my Ubuntu family. From Aruna Bakarr Sesay</h1>
